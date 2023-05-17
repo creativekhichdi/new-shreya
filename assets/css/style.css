@@ -8237,10 +8237,14 @@ table td {
   border-right: 1px solid #ECF0F1;
 }
 table th {
-  background-color: #4ECDC4;
+  background-color: #00778b;
+  font-size: 20px;
+  color: #fff;
 }
 table tr:nth-of-type(even) td {
   background-color: #d9f4f2;
+  border-left: 1px solid #fff;
+  border-right: 1px solid #fff;
 }
 table .total th {
   background-color: white;
